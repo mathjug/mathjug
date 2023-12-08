@@ -2,7 +2,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### About Me :
 
 My name is Matheus Jurgensen and I am a Computer Science undergraduate student at the Universidade de São Paulo. 💻 <p></p>
 I am really passionate about Software Development and Artificial Intelligence. 🤖
